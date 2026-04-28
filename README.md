@@ -1,6 +1,6 @@
 # JAVA_wildlife-sim
 
-Turn-based wildlife ecosystem simulator written in Java, with a Swing GUI. Object-Oriented Programming course project (PO — _Programowanie Obiektowe_).
+Turn-based wildlife ecosystem simulator written in Java, with a Swing GUI. Object-Oriented Programming course project.
 
 A [C++ port of the same simulator](https://github.com/mi-zuri/CPP_wildlife-sim) and [Python port](https://github.com/mi-zuri/PY_wildlife-sim) also exists.
 
